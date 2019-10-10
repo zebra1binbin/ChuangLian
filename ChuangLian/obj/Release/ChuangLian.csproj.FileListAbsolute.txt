@@ -1,0 +1,14 @@
+E:\MyProject\ChuangLian\ChuangLian\bin\Release\ChuangLian.exe.config
+E:\MyProject\ChuangLian\ChuangLian\bin\Release\ChuangLian.exe
+E:\MyProject\ChuangLian\ChuangLian\bin\Release\ChuangLian.pdb
+E:\MyProject\ChuangLian\ChuangLian\obj\Release\MainWindow.g.cs
+E:\MyProject\ChuangLian\ChuangLian\obj\Release\App.g.cs
+E:\MyProject\ChuangLian\ChuangLian\obj\Release\ChuangLian_MarkupCompile.cache
+E:\MyProject\ChuangLian\ChuangLian\obj\Release\ChuangLian_MarkupCompile.lref
+E:\MyProject\ChuangLian\ChuangLian\obj\Release\MainWindow.baml
+E:\MyProject\ChuangLian\ChuangLian\obj\Release\ChuangLian.g.resources
+E:\MyProject\ChuangLian\ChuangLian\obj\Release\ChuangLian.Properties.Resources.resources
+E:\MyProject\ChuangLian\ChuangLian\obj\Release\ChuangLian.csproj.GenerateResource.cache
+E:\MyProject\ChuangLian\ChuangLian\obj\Release\ChuangLian.csproj.CoreCompileInputs.cache
+E:\MyProject\ChuangLian\ChuangLian\obj\Release\ChuangLian.exe
+E:\MyProject\ChuangLian\ChuangLian\obj\Release\ChuangLian.pdb
